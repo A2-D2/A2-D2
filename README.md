@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Abhinav
-- 👀 I’m interested in Backend Java Development and becoming a Full-Stack Developer
+- 👀 I’m interested in Java Development
+- ⛰️ I like to spend most of my saturdays hiking !
 - 🌱 I’m currently learning React and working my Frontend / UI development
 - 💞️ I’m looking to collaborate on ( Nothing at the moment )
 - 📫 How to reach me : abhinav.maddukuri@hotmail.com
