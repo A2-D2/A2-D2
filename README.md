@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhinav
 - 👀 I’m interested in Java Development
 - ⛰️ I like to spend most of my saturdays hiking !
-- 🌱 I’m currently learning React and working my Frontend / UI development
+- 🌱 I’m currently learning to build Android Mobile Apps !
 - 💞️ I’m looking to collaborate on ( Nothing at the moment )
 - 📫 How to reach me : abhinav.maddukuri@hotmail.com
 
