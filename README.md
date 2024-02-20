@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abhinav
-- 👀 I’m interested in Java Development
-- ⛰️ I like to spend most of my saturdays hiking !
-- 🌱 I’m currently learning to build Android Mobile Apps !
+- 👋 Hi, I’m @Abhi
+- 👀 I’m interested in Python development specifically in Machine Learning and AI 
+- ⛰️ I like to go rock climbing and hiking !
+- 🌱 I’m currently working on python projects !
 - 💞️ I’m looking to collaborate on ( Nothing at the moment )
 - 📫 How to reach me : abhinav.maddukuri@hotmail.com
 
