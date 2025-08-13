@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhi
-- 👀 I’m interested in Python development specifically in Fintech / Bioinformatics and Cybersecurity
+- 👀 I’m interested in Python / Java development specifically in Fintech / Bioinformatics / Cybersecurity
 - ⛰️ I like to go rock climbing and hiking !
 - 🌱 I’m currently working on a passion project which is a guide to become and alpinist / mountaineer ! 
 - 💞️ I’m looking to collaborate on ( Nothing at the moment )
