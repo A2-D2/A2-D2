@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abhi
-- 👀 I’m interested in Python / Java development specifically in Fintech / Bioinformatics / Cybersecurity
 - ⛰️ I like to go rock climbing and hiking !
-- 🌱 I’m currently working on a passion project which is a guide to become and alpinist / mountaineer ! 
+- 🌱 I’m currently working on a several Agentic AI projects! 
 - 💞️ I’m looking to collaborate on ( Nothing at the moment )
 - 📫 How to reach me : abhinav.maddukuri@hotmail.com
 
